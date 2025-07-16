@@ -6,7 +6,7 @@ This script is designed to automate the entire setup process for a **Canopy vali
 
 ---
 
-##📋 Prerequisites
+## 📋 Prerequisites
 
 To run a full validator setup for the Canopy Network, you need to run two validator nodes (CNPY and CNRY), optionally with an integrated monitoring stack.
 
