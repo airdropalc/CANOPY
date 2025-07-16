@@ -73,7 +73,7 @@ During this time, the wallet websites may appear to be stuck on a **loading scre
 To check the logs and see the sync progress of your primary node, use the following command:
 
 ```bash
-sudo docker logs node1 -f --tail 100
+sudo docker logs node1
 ```
 *(The `-f` flag will follow the logs in real-time. Press `CTRL+C` to exit.)*
 
