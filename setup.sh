@@ -5,7 +5,7 @@ DEPLOY_DIR="$SCRIPT_DIR/deployments"
 
 show_header() {
     echo "========================================================="
-    echo "          CANOPY VALIDATOR - SCRIPT MANAJEMEN            "
+    echo "          CANOPY VALIDATOR - ONE CLICK INSTALL           "
     echo "                     by @airdropalc                      "
     echo "========================================================="
 }
